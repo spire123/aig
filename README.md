@@ -87,3 +87,11 @@ public class firstClass1 {
 https://studyber.com/design-and-develop-custom-application-mini-project-using-sales-force-cloud/
 
 https://drive.google.com/file/d/1D1m-y1UmoRzp-npeKMdyxSxZgulxGc3I/view?usp=share_link
+
+***Steps:***
+1) custome obj
+2) Tabs
+3) App manager -> new lightning app
+4) user profile -> system admin
+5) go to 9 dots search app name
+
